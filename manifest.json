@@ -1,0 +1,33 @@
+{
+    "short_name": "ResuMaker",
+    "icons": [
+      {
+        "src": "/images/icons-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/icons-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#6495ED",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "blue",
+    "description": "Simples criador de resumos escolares.",
+    "screenshots": [
+      {
+        "src": "/img/preview.png",
+        "type": "image/png",
+        "sizes": "1679x973"
+      },
+      {
+        "src": "/img/preview.png",
+        "type": "image/jpg",
+        "sizes": "1679x973"
+      }
+    ]
+  }
