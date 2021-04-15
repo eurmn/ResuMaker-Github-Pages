@@ -23,11 +23,6 @@
         "src": "/img/preview.png",
         "type": "image/png",
         "sizes": "1679x973"
-      },
-      {
-        "src": "/img/preview.png",
-        "type": "image/jpg",
-        "sizes": "1679x973"
       }
     ]
   }
